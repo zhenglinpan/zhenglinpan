@@ -1,27 +1,12 @@
-# Welcome to Seidou's Homepage! 👋
+# Welcome to Seidou's! 👋
 
-My bibo is still under contrustion, please check back later :)
+- Graduate student from 🍁[UofA](https://www.ualberta.ca/index.html)🍁, *Software Engineering & Intelligent System*, 2022/9 Entry.
+- Previous Research Assistant at [Peking University Diabetes Center](https://www.facebook.com/bysy.edu.cn/).
+- Working on **Data Science**, **Feature Engineering**, **Computer Vision** and other ML&DL topics/projects.
 
-- Graduate studying in 🍁[UofA](https://www.ualberta.ca/index.html).
+**avatar**: [ワン太](https://www.pixiv.net/users/479715)
 
-<!--
-**ZhenglinPan/ZhenglinPan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-profile: [ワン太](https://www.pixiv.net/users/479715)
-
-
+---
 **SKILLS**  
 [![](https://img.shields.io/badge/Python-f9c83c?style=flat-square&logo=python&logoColor=black)](https://www.python.org/)
 [![](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org/)
