@@ -2,6 +2,8 @@
 
 My bibo is still under contrustion, please check back later :)
 
+- Graduate studying in 🍁[UofA](https://www.ualberta.ca/index.html).
+
 <!--
 **ZhenglinPan/ZhenglinPan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
