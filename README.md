@@ -1,5 +1,7 @@
 # Welcome to Seidou's! 👋
-![cover](http://url/to/img.png)
+
+![cover](https://github.com/ZhenglinPan/ZhenglinPan/blob/main/resources/kirby-kirby-line-sticker.gif)
+
 - Graduate student from 🍁[UofA](https://www.ualberta.ca/index.html)🍁, *Software Engineering & Intelligent System*, 2022/9 Entry.
 - Previous Research Assistant at [Peking University Diabetes Center](https://www.facebook.com/bysy.edu.cn/).
 - Working on **Data Science**, **Feature Engineering**, **Computer Vision** and other ML&DL topics/projects.
