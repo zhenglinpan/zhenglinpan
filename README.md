@@ -1,10 +1,13 @@
 # Welcome to Seidou's! 👋
 
-![cover](https://github.com/ZhenglinPan/ZhenglinPan/blob/main/resources/kirby-kirby-line-sticker.gif)
+<p align="left">
+  <img src="https://github.com/ZhenglinPan/ZhenglinPan/blob/main/resources/kirby-kirby-line-sticker.gif" width="150" alt="accessibility text">
+</p>
 
-- Graduate student from 🍁[UofA](https://www.ualberta.ca/index.html)🍁, *Software Engineering & Intelligent System*, 2022/9 Entry.
-- Previous Research Assistant at [Peking University Diabetes Center](https://www.facebook.com/bysy.edu.cn/).
-- Working on **Data Science**, **Feature Engineering**, **Computer Vision** and other ML&DL topics/projects.
+- 🎓 Graduate student studying at 🍁[UofA](https://www.ualberta.ca/index.html)🍁, *MEng*, 2022/9 Entry. *BSc* at 🐼[BIT]🐼 in *Automation*. 
+- 🔬 Previous Research Assistant at [Peking University Diabetes Center](https://www.facebook.com/bysy.edu.cn/).
+- 👨‍💻 Working on **Data Science**, **Feature Engineering**, **Computer Vision** and other **ML&DL** topics/projects.
+- 📮 Email me at: aidenhpan@gmail.com
 
 **avatar**: [ワン太](https://www.pixiv.net/users/479715)
 
