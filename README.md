@@ -4,6 +4,7 @@
   <img src="https://github.com/ZhenglinPan/ZhenglinPan/blob/main/resources/kirby-kirby-line-sticker.gif" width="150" alt="accessibility text">
 </p>
 
+- 💼 Algorithm engineer at [RadioDynamic](http://radynhealth.com/#/home).
 - 🎓 Graduate student studying at 🍁[UofA](https://www.ualberta.ca/index.html)🍁, *MEng*, 2022/9 Entry. *BSc* at 🐼[BIT](https://english.bit.edu.cn/)🐼 in *Automation*. 
 - 🔬 Previous Research Assistant at [Peking University Diabetes Center](https://www.facebook.com/bysy.edu.cn/).
 - 👨‍💻 Working on **Data Science**, **Feature Engineering**, **Computer Vision** and other **ML&DL** topics/projects.
