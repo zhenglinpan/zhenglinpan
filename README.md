@@ -1,4 +1,4 @@
-# Welcome to Zhenglin's! 👋
+# Welcome to zhenglin's! 👋
 
 <p align="left">
   <img src="https://github.com/ZhenglinPan/ZhenglinPan/blob/main/resources/kirby-kirby-line-sticker.gif" width="150" alt="accessibility text">
