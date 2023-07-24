@@ -8,7 +8,7 @@
 - 🎓 Graduate student studying at 🍁[UofA](https://www.ualberta.ca/index.html)🍁, *MEng*, 2022/9 Entry. *BSc* at 🐼[BIT](https://english.bit.edu.cn/)🐼 in *Automation*. 
 - 🔬 Previous Research Assistant at [Peking University Diabetes Center](https://www.facebook.com/bysy.edu.cn/).
 - 👨‍💻 Working on **Super-resolution**, **Denoising**,  **Style Transfer** and other DL topics/projects manifold.
-- 💖 Dedicated to applying DL methods to 2D Animation Production.
+- 💖 Dedicated to applying DL methods to 2D Animation Production. Here's my [daily blogs](https://bangumi.tv/user/rainbowsea/blog).
 
 - 📮 Email me at: aidenhpan@gmail.com
 
