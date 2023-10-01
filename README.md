@@ -1,16 +1,21 @@
 # Welcome to zhenglin's! 👋
 
+
+如果你对用AI技术辅助2D动画制作感兴趣，欢迎找我一起聊天或者写论文。
+
+AI技術を使った2Dアニメーション制作に興味があれば、ぜひ一緒にチャットや論文執筆をしましょう!
+
+Our objective is to leverage the potential of AI to streamline the creation of 2D animation. Don't hesitate to reach out if you're interested. We welcome collaboration opportunities.
+
+- 🎓 Graduate student at 🍁[UofA](https://www.ualberta.ca/index.html)🍁.
+- 🔬 Research Interest in 🦊**AI & 2D Animation**🦊
+- 💼 Working experience in [Peking University Diabetes Center](https://www.facebook.com/bysy.edu.cn/) and [RadioDynamic](http://radynhealth.com/#/home).
+
+- 📮 Email me at: aidenhpan@gmail.com
+
 <p align="left">
   <img src="https://github.com/ZhenglinPan/ZhenglinPan/blob/main/resources/kirby-kirby-line-sticker.gif" width="150" alt="accessibility text">
 </p>
-
-- 💼 Algorithm engineer at [RadioDynamic](http://radynhealth.com/#/home).
-- 🎓 Graduate student studying at 🍁[UofA](https://www.ualberta.ca/index.html), *MEng*, 2022/9 Entry. *BSc* at 🐼[BIT](https://english.bit.edu.cn/) in *Automation*. 
-- 🔬 Previous Research Assistant at [Peking University Diabetes Center](https://www.facebook.com/bysy.edu.cn/).
-- 👨‍💻 Working on **Super-resolution**, **Denoising**,  **Style Transfer** and other DL topics/projects manifold.
-- 💖 Dedicated to applying DL methods to 2D Animation Production. Here's my ✍🏼[daily blogs](https://bangumi.tv/user/rainbowsea/blog).
-
-- 📮 Email me at: aidenhpan@gmail.com
 
 **avatar**: [ワン太](https://www.pixiv.net/users/479715)
 
