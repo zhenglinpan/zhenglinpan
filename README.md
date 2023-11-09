@@ -7,7 +7,8 @@ AI技術を使った2Dアニメーション制作に興味があれば、ぜひ�
 
 Our objective is to leverage the potential of AI to streamline the creation of 2D animation. Don't hesitate to reach out if you're interested. We welcome collaboration opportunities.
 
-- 🎓 Graduate student at 🍁[UofA](https://www.ualberta.ca/index.html)🍁.
+- 🎓 Applying for a PhD program...
+- 🚸 Graduate student at 🍁[UofA](https://www.ualberta.ca/index.html)🍁.
 - 🔬 Research Interest in 🦊**AI & 2D Animation**🦊
 - 💼 Working experience in [Peking University Diabetes Center](https://www.facebook.com/bysy.edu.cn/) and [RadioDynamic](http://radynhealth.com/#/home).
 
