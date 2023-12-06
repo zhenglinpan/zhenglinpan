@@ -1,18 +1,17 @@
 # Welcome to zhenglin's! 👋
 
+Our objective is to leverage the potential of AI to streamline the creation of 2D animation. Don't hesitate to reach out if you're interested. We welcome collaboration opportunities.
+
+もしあなたがAI技術で2 Dアニメーションの制作を支援することに興味があれば、私と一緒にチャットしたり論文を書いたりすることを歓迎します。
 
 如果你对用AI技术辅助2D动画制作感兴趣，欢迎找我一起聊天或者写论文。
-
-AI技術を使った2Dアニメーション制作に興味があれば、ぜひ一緒にチャットや論文執筆をしましょう!
-
-Our objective is to leverage the potential of AI to streamline the creation of 2D animation. Don't hesitate to reach out if you're interested. We welcome collaboration opportunities.
 
 - 🎓 Applying for a PhD program...
 - 🚸 Graduate student at 🍁[UofA](https://www.ualberta.ca/index.html)🍁.
 - 🔬 Research Interest in 🦊**AI & 2D Animation**🦊
 - 💼 Working experience in [Peking University Diabetes Center](https://www.facebook.com/bysy.edu.cn/) and [RadioDynamic](http://radynhealth.com/#/home).
 
-- 📮 Email me at: aidenhpan@gmail.com
+- 📮 Email: aidenhpan@gmail.com
 
 <p align="left">
   <img src="https://github.com/ZhenglinPan/ZhenglinPan/blob/main/resources/kirby-kirby-line-sticker.gif" width="150" alt="accessibility text">
