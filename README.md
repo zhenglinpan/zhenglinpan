@@ -11,7 +11,7 @@ Our objective is to leverage the potential of AI to assist 2D animation creation
 - 🔬 Research Interest in 🦊**AI & 2D Animation**🦊
 - 💼 Working experience in [Peking University Diabetes Center](https://www.facebook.com/bysy.edu.cn/) and [RadioDynamic](http://radynhealth.com/#/home).
 
-- 📮 Email: aidenhpan@gmail.com
+- 📮 Email: zhengli3@ualberta.ca
 
 <p align="left">
   <img src="https://github.com/ZhenglinPan/ZhenglinPan/blob/main/resources/kirby-kirby-line-sticker.gif" width="150" alt="accessibility text">
