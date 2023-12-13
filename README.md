@@ -11,8 +11,6 @@ Our objective is to leverage the potential of AI to assist 2D animation creation
 - 🎓 Applying for a PhD program...
 - 🚸 Graduate student at 🍁[UofA](https://www.ualberta.ca/index.html)🍁.
 - 🔬 Research Interest in 🦊**AI & 2D Animation**🦊
-- 💼 Working experience in [Peking University Diabetes Center](https://www.facebook.com/bysy.edu.cn/) and [RadioDynamic](http://radynhealth.com/#/home).
-
 - 📮 Email: zhengli3@ualberta.ca
 
 **avatar**: [ワン太](https://www.pixiv.net/users/479715)
