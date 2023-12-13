@@ -1,6 +1,6 @@
 # Welcome to zhenglin's! 👋
 
-```python
+```
 Our objective is to leverage the potential of AI to assist 2D animation creation. We welcome collaboration opportunities.
 
 もしあなたがAI技術でアニメーションの制作を支援することに興味があれば、私と一緒にチャットしたり論文を書いたりすることを歓迎します。
