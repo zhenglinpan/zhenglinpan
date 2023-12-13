@@ -1,10 +1,12 @@
 # Welcome to zhenglin's! 👋
 
+'''python
 Our objective is to leverage the potential of AI to assist 2D animation creation. We welcome collaboration opportunities.
 
-もしあなたがAI技術で2 Dアニメーションの制作を支援することに興味があれば、私と一緒にチャットしたり論文を書いたりすることを歓迎します。
+もしあなたがAI技術でアニメーションの制作を支援することに興味があれば、私と一緒にチャットしたり論文を書いたりすることを歓迎します。
 
 如果你对用AI技术辅助2D动画制作感兴趣，欢迎找我一起聊天或者写论文。
+'''
 
 - 🎓 Applying for a PhD program...
 - 🚸 Graduate student at 🍁[UofA](https://www.ualberta.ca/index.html)🍁.
@@ -12,10 +14,6 @@ Our objective is to leverage the potential of AI to assist 2D animation creation
 - 💼 Working experience in [Peking University Diabetes Center](https://www.facebook.com/bysy.edu.cn/) and [RadioDynamic](http://radynhealth.com/#/home).
 
 - 📮 Email: zhengli3@ualberta.ca
-
-<p align="left">
-  <img src="https://github.com/ZhenglinPan/ZhenglinPan/blob/main/resources/kirby-kirby-line-sticker.gif" width="150" alt="accessibility text">
-</p>
 
 **avatar**: [ワン太](https://www.pixiv.net/users/479715)
 
