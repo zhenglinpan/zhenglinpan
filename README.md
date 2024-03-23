@@ -8,9 +8,9 @@ Our objective is to leverage the potential of AI to assist 2D animation creation
 如果你对用AI技术辅助2D动画制作感兴趣，欢迎找我一起聊天或者写论文。
 ```
 
-- 🎓 Applying for a PhD program...
+- 🧭 [AI动画技术指南 A brief guide to AI+Animation](https://aidenpan.notion.site/AI-2cab171fe4ac46a2917420533f2e6e53?pvs=4)
 - 🚸 Graduate student at 🍁[UofA](https://www.ualberta.ca/index.html)🍁.
-- 🔬 Research Interest in 🦊**AI & 2D Animation**🦊
+- 🔬 Research Interest in 🦊**CV & 2D Animation**🦊
 - 📮 Email: zhengli3@ualberta.ca
 
 **avatar**: [ワン太](https://www.pixiv.net/users/479715)
