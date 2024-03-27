@@ -1,9 +1,9 @@
 # Welcome to zhenglin's! 👋
 
 ```
-Our objective is to leverage the potential of AI to assist 2D animation creation. We welcome collaboration opportunities.
+Our objective is to leverage the potential of AI to assist cel animation creation. 
 
-もしあなたがAI技術でアニメーションの制作を支援することに興味があれば、私と一緒にチャットしたり論文を書いたりすることを歓迎します。
+もしAI技術でアニメの制作のことに興味があれば、チャットしたり論文を書いたりすることを歓迎します。
 
 如果你对用AI技术辅助2D动画制作感兴趣，欢迎找我一起聊天或者写论文。
 ```
