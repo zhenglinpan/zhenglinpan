@@ -16,7 +16,8 @@ Our objective is to leverage the potential of AI to assist cel animation creatio
 **avatar**: [ワン太](https://www.pixiv.net/users/479715)
 
 ---
-**SKILLS**  
+<!---
+// **SKILLS**  
 [![](https://img.shields.io/badge/Python-f9c83c?style=flat-square&logo=python&logoColor=black)](https://www.python.org/)
 [![](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org/)
 [![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)]()
@@ -33,4 +34,4 @@ Our objective is to leverage the potential of AI to assist cel animation creatio
 
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-
+-->
