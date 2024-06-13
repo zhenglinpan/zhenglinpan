@@ -8,10 +8,7 @@ Our objective is to leverage the potential of AI to assist cel animation creatio
 如果你对用AI技术辅助2D动画制作感兴趣，欢迎找我一起聊天或者写论文。
 ```
 
-- 🧭 [AI动画技术指南 A brief guide to AI+Animation](https://aidenpan.notion.site/AI-2cab171fe4ac46a2917420533f2e6e53?pvs=4)
-- 🚸 Graduate student at 🍁[UofA](https://www.ualberta.ca/index.html)🍁.
-- 🔬 Research Interest in 🦊**CV & 2D Animation**🦊
-- 📮 Email: zhengli3@ualberta.ca
+- [About Me](https://zhenglinpan.github.io/homepage/)
 
 **avatar**: [ワン太](https://www.pixiv.net/users/479715)
 
