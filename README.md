@@ -7,8 +7,7 @@ Our objective is to leverage the potential of AI to assist cel animation creatio
 
 如果你对用AI技术辅助2D动画制作感兴趣，欢迎找我一起聊天或者写论文。
 ```
-
-- [About Me](https://zhenglinpan.github.io/homepage/)
+[Homepage](https://zhenglinpan.github.io/homepage/)
 
 **avatar**: [ワン太](https://www.pixiv.net/users/479715)
 
