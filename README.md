@@ -2,11 +2,6 @@
 
 My objective is using AI to assist in the production of hand-drawn 2D cartoon(animation). 
 
-もしAI技術でアニメの制作のことに興味があれば、チャットしたり論文を書いたりすることを歓迎します。
-
-如果你对用AI技术辅助2D动画制作感兴趣，欢迎找我一起聊天或者写论文。
-
-
 [Homepage](https://zhenglinpan.github.io/homepage/)
 
 [动画AI技术指南 | A brief guide to AI+Animation](https://aidenpan.notion.site/AI-2cab171fe4ac46a2917420533f2e6e53?pvs=4)
