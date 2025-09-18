@@ -2,7 +2,7 @@
 
 My objective is using AI to assist in the production of hand-drawn 2D cartoon(animation). 
 
-[Homepage](https://zhenglinpan.github.io/homepage/)
+[Homepage](https://zhenglinpan.github.io/)
 
 [动画AI技术指南 | A brief guide to AI+Animation](https://aidenpan.notion.site/AI-2cab171fe4ac46a2917420533f2e6e53?pvs=4)
 
